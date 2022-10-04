@@ -14,7 +14,7 @@
     "@expo/samples": "2.1.1",
     "@google-cloud/speech": "^2.3.1",
     "busboy": "^0.3.1",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-config": "^0.11.7",
